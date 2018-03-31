@@ -1,6 +1,6 @@
 # Titanic
 Project name : Titanic: Machine Learning from Disaster
-LeaderBoard Score : 0.79904 
+LeaderBoard Score on Kaggle: 0.79904 
 
 Project description: 
 The Titanic Dataset from kaggle has been around the internet since 2012.  

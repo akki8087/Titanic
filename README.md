@@ -1,11 +1,10 @@
-# Titanic
-Project name : Titanic: Machine Learning from Disaster
-LeaderBoard Score on Kaggle: 0.79904 
+Project name : Titanic: Machine Learning from Disaster.
+Leader Board Score on Kaggle: 0.79904 
 
 Project description: 
 The Titanic Dataset from kaggle has been around the internet since 2012.  
 
-Start aking this quesions and answers will  help to increase accuracy.
+Start asking this questions and answers will  help to increase accuracy.
 Questions to address
 1) who were the passengers?
 2) Which class passengers belong?
